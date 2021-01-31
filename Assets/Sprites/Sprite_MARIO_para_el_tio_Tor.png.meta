@@ -1,0 +1,1377 @@
+fileFormatVersion: 2
+guid: 45c114d606a5fb8408c9ca007e1d26a9
+timeCreated: 1521775042
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_MARIO_para_el_tio_Tor_0
+    21300002: Sprite_MARIO_para_el_tio_Tor_1
+    21300004: Sprite_MARIO_para_el_tio_Tor_2
+    21300006: Sprite_MARIO_para_el_tio_Tor_3
+    21300008: Sprite_MARIO_para_el_tio_Tor_4
+    21300010: Sprite_MARIO_para_el_tio_Tor_5
+    21300012: Sprite_MARIO_para_el_tio_Tor_6
+    21300014: Sprite_MARIO_para_el_tio_Tor_7
+    21300016: Sprite_MARIO_para_el_tio_Tor_8
+    21300018: Sprite_MARIO_para_el_tio_Tor_9
+    21300020: Sprite_MARIO_para_el_tio_Tor_10
+    21300022: Sprite_MARIO_para_el_tio_Tor_11
+    21300024: Sprite_MARIO_para_el_tio_Tor_12
+    21300026: Sprite_MARIO_para_el_tio_Tor_13
+    21300028: Sprite_MARIO_para_el_tio_Tor_14
+    21300030: Sprite_MARIO_para_el_tio_Tor_15
+    21300032: Sprite_MARIO_para_el_tio_Tor_16
+    21300034: Sprite_MARIO_para_el_tio_Tor_17
+    21300036: Sprite_MARIO_para_el_tio_Tor_18
+    21300038: Sprite_MARIO_para_el_tio_Tor_19
+    21300040: Sprite_MARIO_para_el_tio_Tor_20
+    21300042: Sprite_MARIO_para_el_tio_Tor_21
+    21300044: Sprite_MARIO_para_el_tio_Tor_22
+    21300046: Sprite_MARIO_para_el_tio_Tor_23
+    21300048: Sprite_MARIO_para_el_tio_Tor_24
+    21300050: Sprite_MARIO_para_el_tio_Tor_25
+    21300052: Sprite_MARIO_para_el_tio_Tor_26
+    21300054: Sprite_MARIO_para_el_tio_Tor_27
+    21300056: Sprite_MARIO_para_el_tio_Tor_28
+    21300058: Sprite_MARIO_para_el_tio_Tor_29
+    21300060: Sprite_MARIO_para_el_tio_Tor_30
+    21300062: Sprite_MARIO_para_el_tio_Tor_31
+    21300064: Sprite_MARIO_para_el_tio_Tor_32
+    21300066: Sprite_MARIO_para_el_tio_Tor_33
+    21300068: Sprite_MARIO_para_el_tio_Tor_34
+    21300070: Sprite_MARIO_para_el_tio_Tor_35
+    21300072: Sprite_MARIO_para_el_tio_Tor_36
+    21300074: Sprite_MARIO_para_el_tio_Tor_37
+    21300076: Sprite_MARIO_para_el_tio_Tor_38
+    21300078: Sprite_MARIO_para_el_tio_Tor_39
+    21300080: Sprite_MARIO_para_el_tio_Tor_40
+    21300082: Sprite_MARIO_para_el_tio_Tor_41
+    21300084: Sprite_MARIO_para_el_tio_Tor_42
+    21300086: Sprite_MARIO_para_el_tio_Tor_43
+    21300088: Sprite_MARIO_para_el_tio_Tor_44
+    21300090: Sprite_MARIO_para_el_tio_Tor_45
+    21300092: Sprite_MARIO_para_el_tio_Tor_46
+    21300094: Sprite_MARIO_para_el_tio_Tor_47
+    21300096: Sprite_MARIO_para_el_tio_Tor_48
+    21300098: Sprite_MARIO_para_el_tio_Tor_49
+    21300100: Sprite_MARIO_para_el_tio_Tor_50
+    21300102: Sprite_MARIO_para_el_tio_Tor_51
+    21300104: Sprite_MARIO_para_el_tio_Tor_52
+    21300106: Sprite_MARIO_para_el_tio_Tor_53
+    21300108: Sprite_MARIO_para_el_tio_Tor_54
+    21300110: Sprite_MARIO_para_el_tio_Tor_55
+    21300112: Sprite_MARIO_para_el_tio_Tor_56
+    21300114: Sprite_MARIO_para_el_tio_Tor_57
+    21300116: Sprite_MARIO_para_el_tio_Tor_58
+    21300118: Sprite_MARIO_para_el_tio_Tor_59
+    21300120: Sprite_MARIO_para_el_tio_Tor_60
+    21300122: Sprite_MARIO_para_el_tio_Tor_61
+    21300124: Sprite_MARIO_para_el_tio_Tor_62
+    21300126: Sprite_MARIO_para_el_tio_Tor_63
+    21300128: Sprite_MARIO_para_el_tio_Tor_64
+    21300130: Sprite_MARIO_para_el_tio_Tor_65
+    21300132: Sprite_MARIO_para_el_tio_Tor_66
+    21300134: Sprite_MARIO_para_el_tio_Tor_67
+    21300136: Sprite_MARIO_para_el_tio_Tor_68
+    21300138: Sprite_MARIO_para_el_tio_Tor_69
+    21300140: Sprite_MARIO_para_el_tio_Tor_70
+    21300142: Sprite_MARIO_para_el_tio_Tor_71
+    21300144: Sprite_MARIO_para_el_tio_Tor_72
+    21300146: Sprite_MARIO_para_el_tio_Tor_73
+    21300148: Sprite_MARIO_para_el_tio_Tor_74
+    21300150: Sprite_MARIO_para_el_tio_Tor_75
+    21300152: Sprite_MARIO_para_el_tio_Tor_76
+    21300154: Sprite_MARIO_para_el_tio_Tor_77
+    21300156: Sprite_MARIO_para_el_tio_Tor_78
+    21300158: Sprite_MARIO_para_el_tio_Tor_79
+    21300160: Sprite_MARIO_para_el_tio_Tor_80
+    21300162: Sprite_MARIO_para_el_tio_Tor_81
+    21300164: Sprite_MARIO_para_el_tio_Tor_82
+    21300166: Sprite_MARIO_para_el_tio_Tor_83
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1573
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1573
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1472
+        width: 31
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1472
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1472
+        width: 31
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1472
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1370
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1370
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1370
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1268
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1268
+        width: 32
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1268
+        width: 31
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1161
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1161
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1161
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1161
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1161
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1161
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1046
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1046
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1046
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1046
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 928
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 928
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 928
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 928
+        width: 50
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 819
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 819
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 819
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 819
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 710
+        width: 35
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 710
+        width: 37
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 710
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 710
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 620
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 620
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 620
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 620
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 528
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 528
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 411
+        width: 29
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 411
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 411
+        width: 29
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 411
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 310
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 310
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 365
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 365
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 365
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_49
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 365
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 365
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 365
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 362
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 365
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 365
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_55
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 365
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_56
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 346
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 346
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_58
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 346
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 346
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 346
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_61
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 346
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 346
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 346
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 346
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 220
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 220
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 140
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 140
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_70
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 60
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 38
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 38
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 38
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_76
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_78
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 26
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_81
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 12
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_MARIO_para_el_tio_Tor_83
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 14
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
