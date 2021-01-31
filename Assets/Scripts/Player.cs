@@ -6,40 +6,50 @@ public class Player : MonoBehaviour
 {
 	void Update ()
 	{
-		//Golpear
-		if (Input.GetKeyDown (KeyCode.Space)) {
+		if (Input.GetKeyDown (KeyCode.J)) {
 			FightManager.singleton.StartPlayerAnimation (
 				"LeftPunch");
 		}
-		if (Input.GetKey (KeyCode.LeftArrow) && Input.GetKeyDown (KeyCode.Space)) {
-			
+		if (Input.GetKey (KeyCode.U)) {
 			FightManager.singleton.StartPlayerAnimation (
 				"LeftUpPunch");
 		}
-		if (Input.GetKey (KeyCode.UpArrow) && Input.GetKeyDown (KeyCode.Space)) {
-
+		if (Input.GetKeyDown (KeyCode.L)) {
+			FightManager.singleton.StartPlayerAnimation (
+				"RightPunch");
+		}
+		if (Input.GetKey (KeyCode.O)) {
+			FightManager.singleton.StartPlayerAnimation (
+				"RightUpPunch");
+		}
+		if (Input.GetKey (KeyCode.I)) {
 			FightManager.singleton.StartPlayerAnimation (
 				"UltimateHiperXtremePunch");
 		}
-		//Cubrirse
-		if (Input.GetKeyDown (KeyCode.DownArrow)) {
+		if (Input.GetKeyDown (KeyCode.W)) {
 
 			FightManager.singleton.playerDodge = true;
 			FightManager.singleton.animPlayer.SetBool ("Dodge", true);
 			FightManager.singleton.StartPlayerAnimation (
 				"IdleDodge");
 		}
-		if (Input.GetKeyUp (KeyCode.DownArrow)) {
+		if (Input.GetKeyUp (KeyCode.W)) {
 
 			FightManager.singleton.playerDodge = false;
 			FightManager.singleton.animPlayer.SetBool ("Dodge", false);
 		}
-		//Esquivar
-		if (Input.GetKeyDown (KeyCode.LeftArrow)) {
+		
+		if (Input.GetKeyDown (KeyCode.Q)) {
 			FightManager.singleton.playerDodge = true;
 			Invoke ("SetDodgeFalse", 0.5f);
 			FightManager.singleton.StartPlayerAnimation (
 				"LeftDodge");
+		}
+		if (Input.GetKeyDown (KeyCode.E)) {
+			FightManager.singleton.playerDodge = true;
+			Invoke ("SetDodgeFalse", 0.5f);
+			FightManager.singleton.StartPlayerAnimation (
+				"RightDodge");
 		}
 
 	

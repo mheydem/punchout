@@ -78,7 +78,7 @@ public class FightManager : MonoBehaviour
 
 	public void StartPlayerAnimation(string anim)
 	{
-		if (anim == "LeftPunch") 
+		if (anim == "LeftPunch" || anim == "RightPunch") 
 		{
 			enemyDodge = Random.Range (0, 100) > 50;
 
@@ -99,7 +99,7 @@ public class FightManager : MonoBehaviour
 			
 			}
 		} 
-		else if (anim == "LeftUpPunch") 
+		else if (anim == "LeftUpPunch" || anim == "RightUpPunch") 
 		{
 			enemyDodge = Random.Range (0, 100) > 50;
 			if (!enemyDodge) {
